@@ -1,0 +1,3 @@
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/MusicApp.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/ZERO_CHECK.dir
