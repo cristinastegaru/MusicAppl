@@ -32,7 +32,7 @@ using namespace std;
     }
 
 
-    Song& Song::operator=(const Song& copy) {
+    void Song::operator=(const Song& copy) {
        name_song = new string(*copy.name_song);
     }
 
