@@ -31,3 +31,8 @@ using namespace std;
         name_song = new string(*deep_copy_song.name_song);
     }
 
+
+    Song& Song::operator=(const Song& copy) {
+       name_song = new string(*copy.name_song);
+    }
+
