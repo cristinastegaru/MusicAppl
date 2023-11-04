@@ -4,7 +4,7 @@
 using namespace std;
 #include "Artist_class.hpp"
 
-
+ namespace MusicApplication {
     Artist::Artist(string name_given, string genre_given)
     {
         name = new string(name_given);
@@ -19,6 +19,16 @@ using namespace std;
             Song song_copy(song);
             songs.push_back(song_copy);
         }
+    }
+
+    Artist::Artist(Artist&& move_constructor_obj)
+    {
+    name = move_constructor_obj.name;
+    genre = move_constructor_obj.genre;
+    songs = std::move(move_constructor_obj.songs);
+
+    move_constructor_obj.name = nullptr;
+    move_constructor_obj.genre = nullptr;
     }
 
     Artist::~Artist()
@@ -47,3 +57,4 @@ using namespace std;
         return songs;
     }
 
+}

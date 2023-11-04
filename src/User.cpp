@@ -4,14 +4,22 @@
 using namespace std;
 #include "User.hpp"
 
+namespace MusicApplication {
     User::User(string username_given, string email_given, string password_given)
         {
             username = username_given;
             email = email_given;
             password = password_given;
         }
+    
+    Premium_User::Premium_User(string username, string email, string password) : User(username, email, password) {
+    }
 
-        void User::follow_artist(MusicApp app, string artist_name)
+    Normal_User::Normal_User(string username, string email, string password) : User(username, email, password) {
+    }
+
+
+        void Premium_User::follow_artist(MusicApp app, string artist_name)
         {
             vector<Artist> artists = app.get_artists();
             for (Artist artist : artists)
@@ -21,8 +29,29 @@ using namespace std;
                 }
         }
 
-        void User::show_following_artists()
+        void Premium_User::show_following_artists()
         {
             for (Artist artist : following_artists)
                 cout<<artist.get_name();
         }
+
+        string User::get_username()
+        {
+            return username;
+        }
+
+        void User::account_status()
+        {
+            cout<<"Account = "<< get_username()<<"\n";
+        }
+
+        void Premium_User::type_of_account()
+        {
+            cout<<"Premium account! \n";
+        }
+
+        void Normal_User::type_of_account()
+        {
+            cout<<"Normal account! \n";
+        }
+}

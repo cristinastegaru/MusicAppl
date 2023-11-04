@@ -6,18 +6,19 @@
 #include "Artist_class.hpp"
 using namespace std;
 
-class User;
+namespace MusicApplication {
+    class User;
 
-class MusicApp {
-private:
-    vector<User> users;
-    vector<Artist> artists;
+    class MusicApp {
+    private:
+        vector<User> users;
+        vector<Artist> artists;
 
-public:
-    void add_user(User added_user);
-    void add_artist(Artist added_artist);
-    vector<Artist> get_artists();
-};
-
+    public:
+        void add_user(User added_user);
+        void add_artist(Artist added_artist);
+        vector<Artist> get_artists();
+    };
+}
 #endif
 

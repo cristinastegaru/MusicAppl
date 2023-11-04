@@ -4,17 +4,18 @@
 #include <string>
 using namespace std;
 
-class Song {
-private:
-    string *name_song;
+namespace MusicApplication {
+    class Song {
+    private:
+        string *name_song;
 
-public:
-    Song(string name_s);
-    ~Song();
-    string get_song_name();
-    void rename_song(string new_name);
-    Song(const Song& deep_copy_song);
-    void operator=(const Song& copy);
-};
-
+    public:
+        Song(string name_s);
+        ~Song();
+        string get_song_name();
+        void rename_song(string new_name);
+        Song(const Song& deep_copy_song);
+        void operator=(const Song& copy);
+    };
+}
 #endif

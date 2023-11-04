@@ -5,7 +5,7 @@
 using namespace std;
 #include "Song_class.hpp"
 
-
+namespace MusicApplication {
     Song::Song(string name_s)
     {
         name_song = new string(name_s);
@@ -35,4 +35,4 @@ using namespace std;
     void Song::operator=(const Song& copy) {
        name_song = new string(*copy.name_song);
     }
-
+}
