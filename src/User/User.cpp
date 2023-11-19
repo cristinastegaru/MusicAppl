@@ -1,8 +1,10 @@
-#include <iostream>
+#include<iostream>
 #include <string>
 #include <vector>
 using namespace std;
-#include "User.hpp"
+#include "../includes/User.hpp"
+#include "../includes/Artist_class.hpp"
+#include "../includes/MusicApp_class.hpp"
 
 namespace MusicApplication {
     User::User(string username_given, string email_given, string password_given)

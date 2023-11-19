@@ -1,28 +1,20 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <memory>
 using namespace std;
-#include "Artist_class.hpp"
-#include "Song_class.hpp"
-#include "User.hpp"
-#include "MusicApp_class.hpp"
+#include "../includes/Artist_class.hpp"
+#include "../includes/Song_class.hpp"
+#include "../includes/User.hpp"
+#include "../includes/MusicApp_class.hpp"
+#include "../includes/Podcast_class.hpp"
 
-namespace MusicApplication {
-    void MusicApp::add_user(User added_user)
-    {
-        users.push_back(added_user);
+    template <typename UserType>
+    void print_user_info(UserType& user) {
+        cout << "Username: " << user.get_username() << endl;
+        cout << "Account Type: ";
+        user.type_of_account();
     }
-
-    void MusicApp::add_artist(Artist added_artist)
-    {
-        artists.push_back(added_artist);
-    }
-
-    vector<Artist> MusicApp::get_artists()
-    {
-        return artists;
-    }
-}
 
 //For running Cmake: mkdir build
 //                   cmake -S . -B build
@@ -78,5 +70,37 @@ int main()
     //Interface
     user1.type_of_account();
     user2.type_of_account();
+    
+    cout << endl << "------------------\n";
+    //Functie templetizata
+    print_user_info(user1);
+    print_user_info(user2);
+
+    cout << endl << "------------------\n";
+    //Clasa template
+    MusicApplication::Podcast<string> podcast1("Ghost Tales");
+    podcast1.display_info();
+
+    MusicApplication::Podcast<int> podcast2(1984);
+    podcast2.display_info();
+    cout << endl << "------------------\n";
+    //Unique pointer
+    unique_ptr<MusicApplication::Podcast<string>> podcastPtr(new MusicApplication::Podcast<string>("My favorite purchases of May!"));
+    podcastPtr->display_info();
+    cout << endl << "------------------\n";
+    //Share pointer
+    shared_ptr<MusicApplication::Song> songPtr = make_shared<MusicApplication::Song>("Sacrifice");
+
+    cout << "Count before creating new pointers: " << songPtr.use_count() << endl;
+    {
+        shared_ptr<MusicApplication::Song> songPtr2 = songPtr;
+        shared_ptr<MusicApplication::Song> songPtr3 = songPtr;
+
+        cout << "Count after creating two new pointers: " << songPtr.use_count() << endl;
+    }
+
+    cout << "Count after deleting two pointers: " << songPtr.use_count() << endl;
+
+
 
 }

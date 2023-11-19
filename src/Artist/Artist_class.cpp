@@ -2,7 +2,8 @@
 #include <string>
 #include <vector>
 using namespace std;
-#include "Artist_class.hpp"
+#include "../includes/Artist_class.hpp"
+#include "../includes/Song_class.hpp"
 
  namespace MusicApplication {
     Artist::Artist(string name_given, string genre_given)

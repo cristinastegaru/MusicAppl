@@ -2,9 +2,9 @@
 #define MUSICAPP_CLASS_HPP
 
 #include <vector>
-#include "User.hpp"
-#include "Artist_class.hpp"
 using namespace std;
+#include "Artist_class.hpp"
+#include "User.hpp"
 
 namespace MusicApplication {
     class User;

@@ -1,6 +1,6 @@
-^C:\USERS\CRISTINA STEGARU\DESKTOP\PROGRAME POLI\PAOO\BUILD\CMAKEFILES\0AF66ADA07CCE15D4057DBFE0FAC3096\GENERATE.STAMP.RULE
+^C:\USERS\CRISTINA STEGARU\DESKTOP\PROGRAME POLI\PAOO\MUSICAPPL\BUILD\CMAKEFILES\4BD6CC594924CE2F739D57EE5F7881A7\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO" "-BC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/MusicApp.sln"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl" "-BC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/MusicAppl.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

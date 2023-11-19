@@ -2,8 +2,10 @@
 #define USER_HPP
 #include <string>
 #include <vector>
-#include "MusicApp_class.hpp"
 using namespace std;
+
+#include "Artist_class.hpp"
+#include "MusicApp_class.hpp"
 
 namespace MusicApplication {
     class UserBase {

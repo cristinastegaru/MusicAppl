@@ -3,8 +3,8 @@
 
 #include <string>
 #include <vector>
-#include "Song_class.hpp"
 using namespace std;
+#include "Song_class.hpp"
 
 namespace MusicApplication {
     class Artist {
@@ -26,4 +26,3 @@ namespace MusicApplication {
     };
 }
 #endif
-

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\build\CMakeFiles\0af66ada07cce15d4057dbfe0fac3096\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\build\CMakeFiles\4bd6cc594924ce2f739d57ee5f7881a7\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{8C3C4666-1BCC-30F0-AB3B-966A5FB52986}</UniqueIdentifier>
+      <UniqueIdentifier>{1382947C-0912-3D9F-A156-384481AEFCAD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

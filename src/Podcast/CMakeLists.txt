@@ -1,0 +1,1 @@
+add_library(MusicAppls Podcast_class.cpp)

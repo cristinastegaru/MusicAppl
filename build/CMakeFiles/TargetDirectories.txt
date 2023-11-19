@@ -1,3 +1,4 @@
-C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/MusicApp.dir
-C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/src/CMakeFiles/MusicAppl_src.dir
+C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/src/CMakeFiles/MusicAppl.dir

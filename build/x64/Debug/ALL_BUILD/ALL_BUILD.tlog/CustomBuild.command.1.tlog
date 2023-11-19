@@ -1,6 +1,6 @@
-^C:\USERS\CRISTINA STEGARU\DESKTOP\PROGRAME POLI\PAOO\CMAKELISTS.TXT
+^C:\USERS\CRISTINA STEGARU\DESKTOP\PROGRAME POLI\PAOO\MUSICAPPL\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO" "-BC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build" --check-stamp-file "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl" "-BC:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build" --check-stamp-file "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

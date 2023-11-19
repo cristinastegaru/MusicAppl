@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\Artist_class.cpp">
+    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\Artist_class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\Song_class.cpp">
+    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\Song_class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\User.cpp">
+    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\User.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\MusicApp.cpp">
+    <ClCompile Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\MusicApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\Artist_class.hpp">
+    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\Artist_class.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\Song_class.hpp">
+    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\Song_class.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\User.hpp">
+    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\User.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\src\MusicApp_class.hpp">
+    <ClInclude Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\src\MusicApp_class.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Cristina Stegaru\Desktop\PROGRAME POLI\PAOO\MusicAppl\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{34E9436B-F6EF-3BB0-92D4-C8239947F457}</UniqueIdentifier>
+      <UniqueIdentifier>{2549C43F-8244-3600-87A4-63513B64691C}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{3D6E5C9E-C53A-32F7-8718-D825D837DA20}</UniqueIdentifier>
+      <UniqueIdentifier>{21507A17-D3F6-35A7-9DEB-4E21DE97107E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

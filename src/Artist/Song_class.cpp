@@ -3,9 +3,10 @@
 #include <string>
 #include <vector>
 using namespace std;
-#include "Song_class.hpp"
+#include "../includes/Song_class.hpp"
 
 namespace MusicApplication {
+     
     Song::Song(string name_s)
     {
         name_song = new string(name_s);

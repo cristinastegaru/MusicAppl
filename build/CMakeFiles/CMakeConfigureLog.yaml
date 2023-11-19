@@ -26,8 +26,8 @@ events:
       Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 10/28/2023 9:14:55 PM.
-      Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      Build started 11/4/2023 6:33:39 PM.
+      Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
         Creating directory "Debug\\CompilerIdC.tlog\\".
@@ -38,7 +38,7 @@ events:
         CMakeCCompilerId.c
       Link:
         C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -46,13 +46,13 @@ events:
       FinalizeBuildStatus:
         Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
         Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
-      Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
       
       Build succeeded.
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.69
+      Time Elapsed 00:00:03.21
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -60,7 +60,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/3.28.0-rc3/CompilerIdC/CompilerIdC.exe
+        C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/3.28.0-rc3/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "message-v1"
@@ -80,8 +80,8 @@ events:
       Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 10/28/2023 9:14:57 PM.
-      Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
+      Build started 11/4/2023 6:33:43 PM.
+      Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
         Creating directory "Debug\\CompilerIdCXX.tlog\\".
@@ -92,7 +92,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -100,13 +100,13 @@ events:
       FinalizeBuildStatus:
         Deleting file "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
         Touching "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
-      Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
+      Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\3.28.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
       
       Build succeeded.
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.89
+      Time Elapsed 00:00:02.83
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -114,7 +114,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/3.28.0-rc3/CompilerIdCXX/CompilerIdCXX.exe
+        C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/3.28.0-rc3/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -125,47 +125,47 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-4yb3nv"
-      binary: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-4yb3nv"
+      source: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-ura890"
+      binary: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-ura890"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-4yb3nv'
+        Change Dir: 'C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-ura890'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_b7c49.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_85d58.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 10/28/2023 9:15:00 PM.
-        Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4yb3nv\\cmTC_b7c49.vcxproj" on node 1 (default targets).
+        Build started 11/4/2023 6:33:47 PM.
+        Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ura890\\cmTC_85d58.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_b7c49.dir\\Debug\\".
-          Creating directory "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4yb3nv\\Debug\\".
-          Creating directory "cmTC_b7c49.dir\\Debug\\cmTC_b7c49.tlog\\".
+          Creating directory "cmTC_85d58.dir\\Debug\\".
+          Creating directory "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ura890\\Debug\\".
+          Creating directory "cmTC_85d58.dir\\Debug\\cmTC_85d58.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_b7c49.dir\\Debug\\cmTC_b7c49.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_85d58.dir\\Debug\\cmTC_85d58.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b7c49.dir\\Debug\\\\" /Fd"cmTC_b7c49.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85d58.dir\\Debug\\\\" /Fd"cmTC_85d58.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b7c49.dir\\Debug\\\\" /Fd"cmTC_b7c49.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85d58.dir\\Debug\\\\" /Fd"cmTC_85d58.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4yb3nv\\Debug\\cmTC_b7c49.exe" /INCREMENTAL /ILK:"cmTC_b7c49.dir\\Debug\\cmTC_b7c49.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-4yb3nv/Debug/cmTC_b7c49.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-4yb3nv/Debug/cmTC_b7c49.lib" /MACHINE:X64  /machine:x64 cmTC_b7c49.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_b7c49.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4yb3nv\\Debug\\cmTC_b7c49.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ura890\\Debug\\cmTC_85d58.exe" /INCREMENTAL /ILK:"cmTC_85d58.dir\\Debug\\cmTC_85d58.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-ura890/Debug/cmTC_85d58.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-ura890/Debug/cmTC_85d58.lib" /MACHINE:X64  /machine:x64 cmTC_85d58.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_85d58.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ura890\\Debug\\cmTC_85d58.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_b7c49.dir\\Debug\\cmTC_b7c49.tlog\\unsuccessfulbuild".
-          Touching "cmTC_b7c49.dir\\Debug\\cmTC_b7c49.tlog\\cmTC_b7c49.lastbuildstate".
-        Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4yb3nv\\cmTC_b7c49.vcxproj" (default targets).
+          Deleting file "cmTC_85d58.dir\\Debug\\cmTC_85d58.tlog\\unsuccessfulbuild".
+          Touching "cmTC_85d58.dir\\Debug\\cmTC_85d58.tlog\\cmTC_85d58.lastbuildstate".
+        Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ura890\\cmTC_85d58.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.40
+        Time Elapsed 00:00:01.43
         
       exitCode: 0
   -
@@ -177,47 +177,47 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-e63glt"
-      binary: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-e63glt"
+      source: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-f4js7v"
+      binary: "C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-f4js7v"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-e63glt'
+        Change Dir: 'C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-f4js7v'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_c426a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_a08cf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 10/28/2023 9:15:03 PM.
-        Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e63glt\\cmTC_c426a.vcxproj" on node 1 (default targets).
+        Build started 11/4/2023 6:33:49 PM.
+        Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f4js7v\\cmTC_a08cf.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_c426a.dir\\Debug\\".
-          Creating directory "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e63glt\\Debug\\".
-          Creating directory "cmTC_c426a.dir\\Debug\\cmTC_c426a.tlog\\".
+          Creating directory "cmTC_a08cf.dir\\Debug\\".
+          Creating directory "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f4js7v\\Debug\\".
+          Creating directory "cmTC_a08cf.dir\\Debug\\cmTC_a08cf.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_c426a.dir\\Debug\\cmTC_c426a.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_a08cf.dir\\Debug\\cmTC_a08cf.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c426a.dir\\Debug\\\\" /Fd"cmTC_c426a.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a08cf.dir\\Debug\\\\" /Fd"cmTC_a08cf.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c426a.dir\\Debug\\\\" /Fd"cmTC_c426a.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a08cf.dir\\Debug\\\\" /Fd"cmTC_a08cf.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e63glt\\Debug\\cmTC_c426a.exe" /INCREMENTAL /ILK:"cmTC_c426a.dir\\Debug\\cmTC_c426a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-e63glt/Debug/cmTC_c426a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/build/CMakeFiles/CMakeScratch/TryCompile-e63glt/Debug/cmTC_c426a.lib" /MACHINE:X64  /machine:x64 cmTC_c426a.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_c426a.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e63glt\\Debug\\cmTC_c426a.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f4js7v\\Debug\\cmTC_a08cf.exe" /INCREMENTAL /ILK:"cmTC_a08cf.dir\\Debug\\cmTC_a08cf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-f4js7v/Debug/cmTC_a08cf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Cristina Stegaru/Desktop/PROGRAME POLI/PAOO/MusicAppl/build/CMakeFiles/CMakeScratch/TryCompile-f4js7v/Debug/cmTC_a08cf.lib" /MACHINE:X64  /machine:x64 cmTC_a08cf.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_a08cf.vcxproj -> C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f4js7v\\Debug\\cmTC_a08cf.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_c426a.dir\\Debug\\cmTC_c426a.tlog\\unsuccessfulbuild".
-          Touching "cmTC_c426a.dir\\Debug\\cmTC_c426a.tlog\\cmTC_c426a.lastbuildstate".
-        Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e63glt\\cmTC_c426a.vcxproj" (default targets).
+          Deleting file "cmTC_a08cf.dir\\Debug\\cmTC_a08cf.tlog\\unsuccessfulbuild".
+          Touching "cmTC_a08cf.dir\\Debug\\cmTC_a08cf.tlog\\cmTC_a08cf.lastbuildstate".
+        Done Building Project "C:\\Users\\Cristina Stegaru\\Desktop\\PROGRAME POLI\\PAOO\\MusicAppl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f4js7v\\cmTC_a08cf.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.39
+        Time Elapsed 00:00:02.08
         
       exitCode: 0
 ...
